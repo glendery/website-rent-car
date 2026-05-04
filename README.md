@@ -18,23 +18,23 @@ Berikut adalah dokumentasi visual dari setiap bagian website **Parulian Rent Car
 
 ### 1. Hero Section (Layar Utama)
 Tampilan pertama yang dilihat pengunjung dengan slideshow sinematik dan navigasi premium.
-![Hero Section](/public/images/sinematik1.jpg)
+![Hero Section](/public/images/ss%20hero%20section.jpg)
 
 ### 2. Cara Pemesanan (Booking Steps)
 Alur 1-2-3 yang minimalis untuk memudahkan pelanggan memahami cara menyewa.
-![Booking Steps](/public/images/sinematik2.jpg)
+![Booking Steps](/public/images/ss%20alur%20pesan.jpg)
 
 ### 3. Katalog Armada (Car Catalog)
 Daftar mobil pilihan dengan sistem grid responsif (2 kolom di mobile).
-![Car Catalog](/public/images/sinematik3.jpg)
+![Car Catalog](/public/images/ss%20armada.jpg)
 
 ### 4. Layanan & Keunggulan (Services)
 Penjelasan mengapa pelanggan harus memilih Parulian Rent Car.
-![Services](/public/images/logo.jpg)
+![Services](/public/images/mngpa%20kmi.jpg)
 
 ### 5. FAQ & Footer
 Bagian tanya jawab interaktif dan informasi kontak resmi.
-![FAQ & Footer](/public/images/logo.jpg)
+![FAQ & Footer](/public/images/mngapa kmi.jpg)
 
 ## 🛠️ Tech Stack
 
