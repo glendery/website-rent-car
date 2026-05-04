@@ -12,15 +12,29 @@ Website Landing Page profesional, dinamis, dan responsif untuk jasa penyewaan mo
 - **Booking Steps & FAQ**: Penjelasan alur sewa dan tanya jawab untuk meningkatkan kepercayaan pelanggan.
 - **Clean Code & Security**: Struktur kode modular menggunakan Next.js App Router dengan header keamanan standar industri.
 
-## 📸 Preview Tampilan
+## 📸 Dokumentasi Tampilan Website
 
-### Desktop View
-![Desktop Preview](/public/images/sinematik1.jpg)
-*(Catatan: Gambar ini adalah referensi aset utama, tampilan asli mencakup Navbar mewah dan Hero section)*
+Berikut adalah dokumentasi visual dari setiap bagian website **Parulian Rent Car** untuk referensi pengembangan dan demonstrasi:
 
-### Mobile View (Minimalis)
-- **2-Column Layout**: Memudahkan konsumen melihat banyak unit sekaligus.
-- **Floating WA Button**: Tombol booking yang selalu menempel di bawah untuk akses instan.
+### 1. Hero Section (Layar Utama)
+Tampilan pertama yang dilihat pengunjung dengan slideshow sinematik dan navigasi premium.
+![Hero Section](/public/images/sinematik1.jpg)
+
+### 2. Cara Pemesanan (Booking Steps)
+Alur 1-2-3 yang minimalis untuk memudahkan pelanggan memahami cara menyewa.
+![Booking Steps](/public/images/sinematik2.jpg)
+
+### 3. Katalog Armada (Car Catalog)
+Daftar mobil pilihan dengan sistem grid responsif (2 kolom di mobile).
+![Car Catalog](/public/images/sinematik3.jpg)
+
+### 4. Layanan & Keunggulan (Services)
+Penjelasan mengapa pelanggan harus memilih Parulian Rent Car.
+![Services](/public/images/logo.jpg)
+
+### 5. FAQ & Footer
+Bagian tanya jawab interaktif dan informasi kontak resmi.
+![FAQ & Footer](/public/images/logo.jpg)
 
 ## 🛠️ Tech Stack
 
